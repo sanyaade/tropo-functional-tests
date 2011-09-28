@@ -1,4 +1,4 @@
-package com.tropo.functional;
+package com.rayo.functional;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.Executors;
